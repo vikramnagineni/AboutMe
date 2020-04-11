@@ -1,5 +1,6 @@
 ### Design Patterns
 ### Algorithms & Data Structures
+### OOPS
 ### Backend
 - Microsoft Stack
 	- C#
@@ -58,9 +59,12 @@
 - WebStorm
 - Visual Studio Code
 
-### Version Control
+### Version Control and Code Repository
 - TFVC
 - Git
+- TFS
+- GitLab
+- Github
 
 ### Tools
 - Source Tree
