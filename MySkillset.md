@@ -1,3 +1,14 @@
+### Backend
+C#
+NodeJS
+
+### Database
+
+
+### Cloud
+Azure
+AWS
+
 
 ### FrontEnd
 CSS
