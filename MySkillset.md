@@ -26,7 +26,10 @@ MongoDB
 - jQuery
 - AngularJS
 - Angular
+	- RXJS
+    - 
 - React
+	- Redux
 
 ### Package manager
 - Gulp
