@@ -1,15 +1,16 @@
 ### Backend
-- Asp.Net
-- C#
-- Asp.Net Winforms, Webforms
-- Asp.Net MVC
-- Asp.Net Web API
-- Asp.Net Core
+- Microsoft Stack
+	- C#
+	- Asp.Net Winforms, Webforms
+	- Asp.Net MVC
+	- Asp.Net Web API
+	- Asp.Net Core
 - NodeJS
-- NestJS
+	- NestJS
 
 ### ORM
-- Petapoco, EntityFramework
+- EntityFramework
+- 
 
 ### Database
 SQL
