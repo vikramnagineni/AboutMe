@@ -27,6 +27,11 @@
 - NodeJS
 	- NestJS
     - Express
+- Authentication 
+	- JWT
+    - OAuth
+- Caching
+	- Redis
 - ElasticSearch
 - Testing
 	- nUnit
