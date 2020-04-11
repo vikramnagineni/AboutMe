@@ -24,9 +24,10 @@
 - AWS
 
 ### FrontEnd
-- CSS
+- CSS3
 	- Bootstrap
-- HTML
+    - LESS    
+- HTML5
 - Javascript
 	- ES Next
     - Typescript
@@ -40,6 +41,7 @@
     - ngxs
 - React
 	- Redux
+- Vue
     
 ### RPC
 - Grpc
