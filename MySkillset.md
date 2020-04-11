@@ -17,6 +17,7 @@
     - WCF
 	- MVC
 	- Web API
+    - OData
     - SignalR
 	- .Net Core
     - ADO.Net
