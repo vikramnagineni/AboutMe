@@ -1,3 +1,5 @@
+### Design Patterns
+### Algorithms & Data Structures
 ### Backend
 - Microsoft Stack
 	- C#
@@ -34,6 +36,8 @@
 	- RXJS
     - PrimeNg
     - Angualar Material
+    - ngrx
+    - ngxs
 - React
 	- Redux
     
@@ -44,4 +48,9 @@
 - Gulp
 - Grunt
 - Webpack
+
+### IDE
+- Visual Studio
+- WebStorm
+- 
 
