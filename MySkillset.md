@@ -1,5 +1,7 @@
 ### Design Patterns
 ### Algorithms & Data Structures
+### Domain Driven Design
+### Test Driven Development
 ### SOLID
 ### OOPS
 ### Distributed Applications
