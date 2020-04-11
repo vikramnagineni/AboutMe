@@ -3,10 +3,10 @@
 ### Backend
 - Microsoft Stack
 	- C#
-	- Asp.Net Winforms, Webforms
-	- Asp.Net MVC
-	- Asp.Net Web API
-	- Asp.Net Core
+	- Winforms, Webforms
+	- MVC
+	- Web API
+	- .Net Core
     - ADO.Net
 - NodeJS
 	- NestJS
@@ -19,6 +19,7 @@
 ### Database
 - SQL
 - MongoDB
+- MySQL
 
 ### Cloud
 - Azure
