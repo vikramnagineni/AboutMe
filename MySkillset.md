@@ -65,3 +65,6 @@
 ### Tools
 - Source Tree
 
+
+### Project Management
+- Agile Methodology
