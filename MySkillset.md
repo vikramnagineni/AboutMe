@@ -14,8 +14,8 @@
 - Petapoco
 
 ### Database
-SQL
-MongoDB
+- SQL
+- MongoDB
 
 ### Cloud
 - Azure
@@ -26,6 +26,8 @@ MongoDB
 	- Bootstrap
 - HTML
 - Javascript
+	- ES Next
+    - Typescript
 - jQuery
 - AngularJS
 - Angular
