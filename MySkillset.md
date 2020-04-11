@@ -6,6 +6,7 @@ Javascript
 jQuery
 AngularJS
 Angular
+React
 
 ### Package manager
 Gulp
