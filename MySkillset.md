@@ -1,25 +1,31 @@
 ### Backend
-C#
-NodeJS
+- Asp.Net
+- C#
+- Asp.Net Winforms, Webforms
+- Asp.Net MVC
+- Asp.Net Web API
+- Asp.Net Core
+- NodeJS
 
 ### Database
-
+SQL
+MongoDB
 
 ### Cloud
-Azure
-AWS
-
+- Azure
+- AWS
 
 ### FrontEnd
-CSS
-HTML
-Javascript
-jQuery
-AngularJS
-Angular
-React
+- CSS
+- HTML
+- Javascript
+- jQuery
+- AngularJS
+- Angular
+- React
 
 ### Package manager
-Gulp
-Grunt
-Webpack
+- Gulp
+- Grunt
+- Webpack
+
