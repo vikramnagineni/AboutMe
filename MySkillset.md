@@ -52,5 +52,5 @@
 ### IDE
 - Visual Studio
 - WebStorm
-- 
+- Visual Studio Code
 
