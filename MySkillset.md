@@ -23,13 +23,15 @@ MongoDB
 
 ### FrontEnd
 - CSS
+	- Bootstrap
 - HTML
 - Javascript
 - jQuery
 - AngularJS
 - Angular
 	- RXJS
-    - 
+    - PrimeNg
+    - Angualar Material
 - React
 	- Redux
 
