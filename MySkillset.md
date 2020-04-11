@@ -45,6 +45,11 @@
 - React
 	- Redux
 - Vue
+- Testing
+	- Jasmine
+    - Karma
+    - Protractor
+    - Mocha
     
 ### RPC
 - Grpc
@@ -68,7 +73,6 @@
 
 ### Tools
 - Source Tree
-
 
 ### Project Management
 - Agile Methodology
