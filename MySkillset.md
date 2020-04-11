@@ -6,6 +6,10 @@
 - Asp.Net Web API
 - Asp.Net Core
 - NodeJS
+- NestJS
+
+### ORM
+- Petapoco, EntityFramework
 
 ### Database
 SQL
